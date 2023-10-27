@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "547828109389",
+    "project_id": "song-player-35a1b",
+    "storage_bucket": "song-player-35a1b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:547828109389:android:574ea19ec989478523cc04",
+        "android_client_info": {
+          "package_name": "com.example.songplayer"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKKzg7pCXc5MtJshBX3uMk58psm_x7OSc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
